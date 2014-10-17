@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tpl:home|Door43 (tpl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tpl|d43-tpl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tpl/archive/master.zip|d43-tpl.zip]]
+
+**Recent Changes**
+{{changes>ns = tpl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tpl|Ethnologue data]]
+
